@@ -14,6 +14,7 @@ jobs:
         variant:
           - nRF52DK
           - BluzDK
+          - BLYST_NANO_DK
           - RedBearLab_nRF51822:version=1_0
           - BBCmicrobit
           - BBCmicrobitV2

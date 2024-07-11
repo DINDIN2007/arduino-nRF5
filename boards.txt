@@ -390,6 +390,46 @@ STCT_nRF52_minidev.menu.softdevice.s132.upload.maximum_size=409600
 STCT_nRF52_minidev.menu.softdevice.s132.build.extra_flags=-DNRF52 -DS132 -DNRF51_S132
 STCT_nRF52_minidev.menu.softdevice.s132.build.ldscript=armgcc_s132_nrf52832_xxaa.ld
 
+BLYST_NANO_DK.name=DevKit board for BLYST-NANO (IMM-NRF52832-NANO)
+
+###############################
+BLYST_NANO_DK.vid.0=0x1366
+#BLYST_NANO_DK.pid.0=0x1015
+###############################
+
+BLYST_NANO_DK.upload.tool=sandeepmistry:openocd
+BLYST_NANO_DK.upload.protocol=jlink
+BLYST_NANO_DK.upload.target=nrf52
+BLYST_NANO_DK.upload.maximum_size=524288
+BLYST_NANO_DK.upload.setup_command=transport select swd;
+BLYST_NANO_DK.upload.use_1200bps_touch=false
+BLYST_NANO_DK.upload.wait_for_upload_port=false
+BLYST_NANO_DK.upload.native_usb=false
+
+BLYST_NANO_DK.bootloader.tool=sandeepmistry:openocd
+
+BLYST_NANO_DK.build.mcu=cortex-m4
+BLYST_NANO_DK.build.f_cpu=16000000
+BLYST_NANO_DK.build.board=IDK_BLYST_NANO
+BLYST_NANO_DK.build.core=nRF5
+BLYST_NANO_DK.build.variant=BLYST_NANO_DK
+BLYST_NANO_DK.build.variant_system_lib=
+BLYST_NANO_DK.build.extra_flags=-DNRF52
+BLYST_NANO_DK.build.float_flags=-mfloat-abi=hard -mfpu=fpv4-sp-d16
+BLYST_NANO_DK.build.ldscript=nrf52_xxaa.ld
+
+BLYST_NANO_DK.build.lfclk_flags=-DUSE_LFXO
+
+BLYST_NANO_DK.menu.softdevice.none=None
+BLYST_NANO_DK.menu.softdevice.none.softdevice=none
+BLYST_NANO_DK.menu.softdevice.none.softdeviceversion=
+
+BLYST_NANO_DK.menu.softdevice.s132=S132
+BLYST_NANO_DK.menu.softdevice.s132.softdevice=s132
+BLYST_NANO_DK.menu.softdevice.s132.softdeviceversion=2.0.1
+BLYST_NANO_DK.menu.softdevice.s132.upload.maximum_size=409600
+BLYST_NANO_DK.menu.softdevice.s132.build.extra_flags=-DNRF52 -DS132 -DNRF51_S132
+BLYST_NANO_DK.menu.softdevice.s132.build.ldscript=armgcc_s132_nrf52832_xxaa.ld
 
 # nRF51 variants
 ###################
