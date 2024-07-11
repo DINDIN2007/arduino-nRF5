@@ -359,13 +359,14 @@
           "version": "0.8.0",
           "category": "Contributed",
           "help": {
-            "online": "https://github.com/sandeepmistry/arduino-nRF5/issues"
+            "online": "https://github.com/DINDIN2007/arduino-nRF5/issues"
           },
-          "url": "https://github.com/sandeepmistry/arduino-nRF5/archive/0.8.0.tar.gz",
+          "url": "https://github.com/DINDIN2007/arduino-nRF5/archive/0.8.0.tar.gz",
           "archiveFileName": "arduino-nRF52-0.8.0.tar.gz",
           "checksum": "MD5:84da4097f5518bcaa0752ff31927504f",
           "size": "1488561",
           "boards": [
+            {"name": "BLYST_NANO_DK"},
             {"name": "BBC micro:bit"},
             {"name": "BBC micro:bit v2"},
             {"name": "Bluz DK"},

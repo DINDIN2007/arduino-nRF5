@@ -96,6 +96,7 @@ Become a sponsor and get your logo on our README on Github with a link to your s
  * [hackaBLE](https://github.com/electronut/ElectronutLabs-hackaBLE)
  * [hackaBLE_v2](https://github.com/electronut/ElectronutLabs-hackaBLE)
  * [DWM1001-DEV](https://www.decawave.com/product/dwm1001-development-board/)
+ * [BLYST_NANO_DK](https://www.crowdsupply.com/i-syst/blyst-nano)
 
 ### nRF51
  * [Plain nRF51 MCU](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF51822)
