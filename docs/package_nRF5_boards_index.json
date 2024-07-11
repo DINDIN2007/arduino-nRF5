@@ -356,13 +356,13 @@
         {
           "name": "Nordic Semiconductor nRF5 Boards",
           "architecture": "nRF5",
-          "version": "0.8.0",
+          "version": "0.9.0",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/DINDIN2007/arduino-nRF5/issues"
           },
-          "url": "https://github.com/DINDIN2007/arduino-nRF5/archive/0.8.0.tar.gz",
-          "archiveFileName": "arduino-nRF52-0.8.0.tar.gz",
+          "url": "https://github.com/DINDIN2007/arduino-nRF5/archive/0.9.0.tar.gz",
+          "archiveFileName": "arduino-nRF52-0.9.0.tar.gz",
           "checksum": "MD5:84da4097f5518bcaa0752ff31927504f",
           "size": "1488561",
           "boards": [
