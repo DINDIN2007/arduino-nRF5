@@ -363,8 +363,8 @@
           },
           "url": "https://github.com/DINDIN2007/arduino-nRF5/archive/0.11.0.tar.gz",
           "archiveFileName": "arduino-nRF52-0.11.0.tar.gz",
-          "checksum": "MD5:edcd6b4fc791b6103244d0f5f2e89750",
-          "size": "1490693",
+          "checksum": "MD5:190f30376abe81c0b82a009a4ce7eb63",
+          "size": "1490685",
           "boards": [
             {"name": "BLYST_NANO_DK"},
             {"name": "BBC micro:bit"},
