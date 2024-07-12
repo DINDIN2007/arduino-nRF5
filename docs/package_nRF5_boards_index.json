@@ -310,7 +310,7 @@
           },
           "url": "https://github.com/sandeepmistry/arduino-nRF5/archive/0.7.0.tar.gz",
           "archiveFileName": "arduino-nRF52-0.7.0.tar.gz",
-          "checksum": "MD5:0b111df79f1f7a01c8421e8813d86c05",
+          "checksum": "MD5:004cc94689af048eaa85eacab99c2b5e",
           "size": "1487463",
           "boards": [
             {"name": "BBC micro:bit"},
