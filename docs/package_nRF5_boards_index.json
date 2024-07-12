@@ -356,14 +356,14 @@
         {
           "name": "Nordic Semiconductor nRF5 Boards",
           "architecture": "nRF5",
-          "version": "0.8.0",
+          "version": "0.10.0",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/DINDIN2007/arduino-nRF5/issues"
           },
           "url": "https://github.com/DINDIN2007/arduino-nRF5/archive/0.10.0.tar.gz",
           "archiveFileName": "arduino-nRF52-0.10.0.tar.gz",
-          "checksum":  "MD5:004cc94689af048eaa85eacab99c2b5e",
+          "checksum":  "MD5:dc751d1872ca053db1143c0348c58d88",
           "size": "1490705",
           "boards": [
             {"name": "BLYST_NANO_DK"},
