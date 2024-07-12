@@ -393,8 +393,8 @@ STCT_nRF52_minidev.menu.softdevice.s132.build.ldscript=armgcc_s132_nrf52832_xxaa
 BLYST_NANO_DK.name=DevKit board for BLYST-NANO (IMM-NRF52832-NANO)
 
 ###############################
-BLYST_NANO_DK.vid.0=0x0204
-#BLYST_NANO_DK.pid.0=0x0d28
+BLYST_NANO_DK.vid.0=0x1fc9
+#BLYST_NANO_DK.pid.0=0x80d1
 ###############################
 
 BLYST_NANO_DK.upload.tool=sandeepmistry:openocd
